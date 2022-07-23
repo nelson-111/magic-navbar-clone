@@ -1,6 +1,7 @@
 # Hello world
 
-This project is based on another one: [original magic navbar](https://www.youtube.com/watch?v=ArTVfdHOB-M&t=748s)
+This project is based on the [original magic navbar](https://www.youtube.com/watch?v=ArTVfdHOB-M&t=748s)
+
 Was made for learn some basics to use svelte and tailwind with some tricks applicable in big projects.
 Responsive design wasn't the goal for this project, although responsive resources were used.
 
