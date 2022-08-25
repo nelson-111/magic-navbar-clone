@@ -5,7 +5,7 @@
   import {routes} from '../routes'
 </script>
 
-<body style={`--color-1: hsl(${Math.floor(Math.random() * 360)} 100% 5%); --color-2: hsl(${Math.floor(Math.random() * 360)} 80% 92%)`} class="bg-[color:var(--color-1)] flex justify-center items-center min-h-[100vh]">
+<div style={`--color-1: hsl(${Math.floor(Math.random() * 360)} 100% 5%); --color-2: hsl(${Math.floor(Math.random() * 360)} 80% 92%)`} class="bg-[color:var(--color-1)] flex justify-center items-center min-h-[100vh]">
 
 <!--The navbar-->
   <div class="w-[50vmax] h-[8vmax] bg-[color:var(--color-2)] flex justify-evenly items-center rounded-[1vmax] relative" title="Navbar">
@@ -30,4 +30,4 @@
     </a>
     {/each}
   </div>
-</body>
+</div>
