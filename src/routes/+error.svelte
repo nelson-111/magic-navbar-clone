@@ -1,9 +1,0 @@
-<head>
-  <meta http-equiv="refresh" content="0; url=https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-</head>
-
-<noscript>
-  <meta http-equiv="refresh" content="0; url=https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-</noscript>
-
-Hello ;)
